@@ -17,9 +17,11 @@ To install the package, run:
 
 ```sh
 pip install -r requirements.txt
+```
 
 
 ## Cloning and Running the code
+
 - Clone the Repo
     git clone https://github.com/TwrblxDevs/StupidlyComplexPyCalculator.git
 
