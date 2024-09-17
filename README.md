@@ -23,13 +23,21 @@ pip install -r requirements.txt
 ## Cloning and Running the code
 
 - Clone the Repo
+    ```sh
     git clone https://github.com/TwrblxDevs/StupidlyComplexPyCalculator.git
+    ```
 
 - Navigate to the Project Directory
+    ```sh
     cd StupidlyComplexPyCalculator
+    ```
 
 - Install the Required Packages
+    ```sh
     pip install -r requirements.txt
+    ```
 
 - Run the Script
+    ```sh
     python3 main.py
+    ```
