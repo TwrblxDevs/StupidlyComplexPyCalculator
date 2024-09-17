@@ -89,7 +89,7 @@ def display_banner():
   `---`       `--`                                          
     """
     print(colored(banner, get_color_for_number()[1]))
-
+    print(devCodes.Time())
 def ask_yes_no(question):
     while True:
         response = input(f"{question} (0 = No, 1 = Yes): ").strip()
