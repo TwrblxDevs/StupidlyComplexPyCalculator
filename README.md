@@ -7,3 +7,6 @@ I was in coding club and got bored :3
 ## How does it work?
 Example:
 ![alt text](image.png)
+
+## Packages Needed
+```termcolor, time, math, fractions, random, pickle, os```
