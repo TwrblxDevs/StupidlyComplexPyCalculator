@@ -9,4 +9,11 @@ Example:
 ![alt text](image.png)
 
 ## Packages Needed
-```termcolor, time, math, fractions, random, pickle, os```
+To run this project, you need the following Python packages:
+
+- `termcolor` (for colored terminal output)
+
+To install the package, run:
+
+```sh
+pip install -r requirements.txt
